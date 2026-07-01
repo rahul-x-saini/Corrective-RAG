@@ -1,0 +1,16 @@
+langchain==0.3.27
+langgraph==0.6.7
+langchain-community==0.3.29
+langchain-openai==0.3.32
+langchain-text-splitters==0.3.11
+
+faiss-cpu==1.12.0
+
+openai==1.107.1
+pydantic==2.11.9
+python-dotenv==1.1.1
+tiktoken==0.11.0
+
+pypdf==6.0.0
+
+tavily-python==0.7.11
