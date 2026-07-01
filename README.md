@@ -124,7 +124,6 @@ The final answer is generated strictly from the refined context to minimize hall
 │   ├── book2.pdf
 │   └── book3.pdf
 ├── corrective_rag.ipynb
-├── crag_paper.pdf
 ├── .gitignore
 ├── requirements.txt
 └── README.md
